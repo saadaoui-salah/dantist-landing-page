@@ -279,11 +279,13 @@ export default function Home() {
               Book Now
             </a>
           </div>
-          <Image
-            src={H}
-            alt="6"
-            className="rounded-t-[200px] w-[350px] h-[500px]"
-          />
+          <div className="bg-lightGreen rounded-[50px]">
+            <Image
+              src={H}
+              alt="6"
+              className="rounded-t-[200px] w-[350px] h-[500px]"
+            />
+          </div>
         </div>
       </section>
       <section
