@@ -108,7 +108,7 @@ export default function Home() {
               </p>
               <a
                 href="#"
-                className="py-2 max-w-[150px] text-center font-bold rounded-full border-2 border-secondary text-secondary"
+                className="py-2 hover:text-white hover:bg-secondary max-w-[150px] text-center font-bold rounded-full border-2 border-secondary text-secondary"
               >
                 Learn More
               </a>
@@ -135,7 +135,7 @@ export default function Home() {
           </p>
           <a
             href="#"
-            className="py-2 px-8 text-center font-bold rounded-full border-2 border-secondary text-secondary"
+            className="py-2 hover:text-white hover:bg-secondary px-8 text-center font-bold rounded-full border-2 border-secondary text-secondary"
           >
             Meet doctors
           </a>
